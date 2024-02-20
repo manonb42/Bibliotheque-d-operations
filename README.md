@@ -1,5 +1,9 @@
 ## Bibliothèque d'Opérations sur les Entiers à Chiffres Arbitraires
 
+Manon Baha 
+
+### Description
+
 Ce projet vise à créer une bibliothèque de fonctions permettant d'effectuer des opérations sur des entiers avec un nombre arbitraire de chiffres. L'objectif est de fournir des fonctionnalités robustes pour manipuler des entiers de taille variable, allant au-delà des limitations imposées par les types de données standard dans de nombreux langages de programmation.
 
 ### Fonctionnalités
